@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "740000170146",
+    "firebase_url": "https://rpos-system-3d2d6.firebaseio.com",
+    "project_id": "rpos-system-3d2d6",
+    "storage_bucket": "rpos-system-3d2d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740000170146:android:f7c0fb19ed1ef2dc",
+        "android_client_info": {
+          "package_name": "com.example.rpossystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740000170146-8qdp2p15baiq5v5cksrjv2ii0sb51rq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb9_4IblFqLQg-U9XVFhAi35Q9NqoFIco"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
